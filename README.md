@@ -2,4 +2,4 @@
 ## Web Page
 ### Web Programmer
 * Mohammad Javidi
-* m.javidi@yahoo.com
+* <a mailto="m.javidi@yahoo.com">Email to Mohammad Javidi</a>
