@@ -9,3 +9,7 @@ header {
 .header-subtitle {
     font-family: 'Palette Mosaic', cursive;
 }
+
+.social-icon {
+    width: 8rem;
+}
